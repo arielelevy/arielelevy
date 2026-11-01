@@ -1,6 +1,6 @@
 <h1 align="center">Ariel Edgardo Levy</h1>
 <p align="center">AI Engineer · Technical Lead · Principal Architect</p>
-<p align="center">Turning business needs into AI systems and working products.</p>
+<p align="center">Turning business needs into systems and working products.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arieledgardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ariel_Edgardo_Levy-0A66C2"></a>
