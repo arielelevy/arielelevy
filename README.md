@@ -20,6 +20,10 @@ data models to evaluation and deployment.
 
 ## Book
 
+<a href="https://www.amazon.com/gp/aw/d/B0GNM9MK7C/">
+  <img src="assets/ingenieria-ia-generativa.png" width="140" alt="Portada de Ingeniería de IA Generativa, de Ariel Levy">
+</a>
+
 [Ingeniería de IA Generativa: Diseño, Construcción y Despliegue de Sistemas Inteligentes](https://www.amazon.com/gp/aw/d/B0GNM9MK7C/)
 
 I'm the author of this Spanish-language engineering book on designing, building and
