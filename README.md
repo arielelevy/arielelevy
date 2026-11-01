@@ -20,15 +20,22 @@ data models to evaluation and deployment.
 
 ## Book
 
-<a href="https://www.amazon.com/gp/aw/d/B0GNM9MK7C/">
-  <img src="assets/ingenieria-ia-generativa.png" width="140" alt="Portada de Ingeniería de IA Generativa, de Ariel Levy">
-</a>
+<table>
+<tr>
+<td width="100" valign="top">
+<a href="https://www.amazon.com/gp/aw/d/B0GNM9MK7C/"><img src="assets/ingenieria-ia-generativa.png" width="90" alt="Portada de Ingeniería de IA Generativa, de Ariel Levy"></a>
+</td>
+<td valign="top">
 
 [Ingeniería de IA Generativa: Diseño, Construcción y Despliegue de Sistemas Inteligentes](https://www.amazon.com/gp/aw/d/B0GNM9MK7C/)
 
 I'm the author of this Spanish-language engineering book on designing, building and
 operating generative AI systems. It covers RAG, agents, knowledge graphs, evaluation
 and production deployment, with an emphasis on the reasoning behind architectural decisions.
+
+</td>
+</tr>
+</table>
 
 ## Selected projects
 
