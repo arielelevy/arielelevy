@@ -18,6 +18,14 @@ I bring 25+ years in enterprise technology, with hands-on work across Python, Re
 C#/.NET and Azure. I lead technical teams and stay involved in the code, from APIs and
 data models to evaluation and deployment.
 
+## Book
+
+[Ingeniería de IA Generativa: Diseño, Construcción y Despliegue de Sistemas Inteligentes](https://www.amazon.com/gp/aw/d/B0GNM9MK7C/)
+
+I'm the author of this Spanish-language engineering book on designing, building and
+operating generative AI systems. It covers RAG, agents, knowledge graphs, evaluation
+and production deployment, with an emphasis on the reasoning behind architectural decisions.
+
 ## Selected projects
 
 | Project | What I built | Engineering focus |
