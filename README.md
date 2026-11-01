@@ -4,12 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arieledgardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ariel_Edgardo_Levy-0A66C2"></a>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&amp;logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&amp;logoColor=61DAFB">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=white">
-  <img alt="Azure" src="https://img.shields.io/badge/Cloud-Azure-0078D4">
 </p>
+<p align="center">Python · FastAPI · React · TypeScript · Azure</p>
 
 I design and build AI systems, developer tools and data platforms. My work connects
 business requirements with architecture, implementation and delivery.
