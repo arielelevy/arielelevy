@@ -3,7 +3,7 @@
 <p align="center">Turning business needs into systems and working products.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arieledgardo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ariel_Edgardo_Levy-0A66C2"></a>
+  <a href="https://www.linkedin.com/in/arieledgardo/"><img alt="LinkedIn" src="assets/linkedin.svg"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&amp;logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&amp;logoColor=61DAFB">
