@@ -1,5 +1,5 @@
 <h1 align="center">Ariel Edgardo Levy</h1>
-<p align="center">AI Engineer · Technical Lead · Principal Architect</p>
+<p align="center">AI Engineer · Technical Manager · Principal Architect</p>
 <p align="center">Turning business needs into systems and working products.</p>
 
 <p align="center">
